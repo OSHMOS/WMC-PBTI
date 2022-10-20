@@ -12,6 +12,11 @@
 
 .resultDesc{
   font-size: 20px;
+  text-align: start;
+}
+
+.danger {
+  font-size: 18px;
 }
 
 .kakao{
