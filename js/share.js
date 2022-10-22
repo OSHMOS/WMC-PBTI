@@ -21,7 +21,7 @@ function setShare(){
             shareImage,
           link: {
             web_url: shareURL,
-            mobile_web_url: shareUrl,
+            mobile_web_url: shareURL,
           },
         },
 
