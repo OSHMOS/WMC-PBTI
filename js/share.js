@@ -25,8 +25,8 @@ function setShare(){
       {
         title: '웹으로 이동',
         link: {
-          mobileWebUrl: 'https://developers.kakao.com',
-          webUrl: 'https://developers.kakao.com',
+          mobileWebUrl: shareURL,
+          webUrl: shareURL,
         },
       },
     ],
